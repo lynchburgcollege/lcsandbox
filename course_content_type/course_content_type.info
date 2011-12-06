@@ -1,0 +1,6 @@
+core = "7.x"
+description = "Course content type"
+name = "Course content type"
+package = "Features"
+project = "course_content_type"
+version = "7.x-1.0"
